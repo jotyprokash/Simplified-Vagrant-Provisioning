@@ -2,7 +2,7 @@
 
 PROJECT Architecture:
 
-![Cheese!](Architecture.png)
+![Cheese!](architecture.png)
 
 Prerequisites:
 1. Oracle VM Virtualbox
