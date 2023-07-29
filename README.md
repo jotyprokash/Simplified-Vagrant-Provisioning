@@ -1,7 +1,8 @@
 # Simplified-Vagrant-Provisioning
 
 PROJECT Architecture:
-![]!(Architecture.png)
+
+![image_view]!(Architecture.png)
 
 Prerequisites:
 1. Oracle VM Virtualbox
